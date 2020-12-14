@@ -1,2 +1,2 @@
 # pricestocktracker
-command line app that scrapes the web and updates ebay listings
+command line app that scrapes the amazon website for most popular books
